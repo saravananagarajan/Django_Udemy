@@ -1,0 +1,48 @@
+    1  ssh saravnag.desktop.amazon.com
+    2  ssh saravnag.desktop.amazon.com
+    3  sudo nano /etc/fstab
+    4  LABEL=sAArAAvAAnAA
+    5  python
+    6  python3
+    7  python --version
+    8  ssh saravnag.desktop.com
+    9  ssh saravnag@saravnag.desktop.com
+   10  ssh saravnag@saravnag.desktop.amazon.com
+   11  sudo yum remove firefox
+   12  ls
+   13  ssh saravnag@saravnag.desktop.amazon.com
+   14  git --version
+   15  git --version
+   16  brew install git
+   17  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   18  brew install git
+   19  git --version
+   20  git config --global user.name "saravananagarajan"
+   21  git config --global user.email "saravanakumar.tvk@gmail.com"
+   22  pwd
+   23  ls
+   24  cd Documents/
+   25  ls
+   26  cd Study/DJango/Revision2/
+   27  git init
+   28  echo "# Django_Udemy" >> README.md
+   29  git add README.md
+   30  git commit -m "first commit"
+   31  git remote add origin https://github.com/saravananagarajan/Django_Udemy.git
+   32  git status
+   33  git push -u origin master
+   34  ls
+   35  pwd
+   36  git status
+   37  nano test.txt
+   38  ls
+   39  git status
+   40  git add test.txt 
+   41  git commit -m "My first commit"
+   42  ls
+   43  pwd
+   44  git push
+   45  git status
+   46  hy
+   47  history
+   48  history >> git_basic_commands.txt
